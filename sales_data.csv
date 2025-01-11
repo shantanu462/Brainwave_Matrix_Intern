@@ -1,0 +1,501 @@
+Date,Product Name,Category,Sales Amount,Quantity Sold,Discount,Profit,Store Location
+2024-07-14,Printer,Photography,811,5,20,255,Susantown
+2024-05-24,Laptop,Electronics,491,6,15,134,East Brandonport
+2024-05-25,Smartphone,Photography,818,6,10,277,Williamsshire
+2024-07-31,Headphones,Photography,1065,4,5,140,Port Daisy
+2024-03-21,Headphones,Electronics,1398,3,20,246,New Michaelfurt
+2024-07-21,Tablet,Electronics,565,4,5,27,New Troy
+2024-01-03,Smartphone,Photography,1089,1,15,49,Gregoryfurt
+2024-01-11,Tablet,Accessories,841,4,5,30,West Justinton
+2024-06-21,Tablet,Photography,385,1,5,408,Millermouth
+2024-04-24,Smartphone,Photography,307,1,20,234,South Jennifer
+2024-06-17,Laptop,Photography,546,6,10,364,Melendezbury
+2024-09-05,Camera,Photography,945,5,5,291,Nelsonburgh
+2024-06-22,Camera,Electronics,209,4,10,17,West Laurafurt
+2024-08-26,Tablet,Photography,901,3,15,109,Youngland
+2024-08-11,Headphones,Accessories,739,1,5,249,Monicahaven
+2024-02-02,Laptop,Electronics,429,6,20,487,Peckberg
+2024-10-06,Printer,Accessories,1006,2,15,96,Lake Nicolefurt
+2024-09-30,Printer,Accessories,740,8,15,307,North Katrinahaven
+2024-06-08,Printer,Accessories,1341,5,20,437,Anthonymouth
+2024-02-23,Printer,Accessories,1490,7,5,23,Josephtown
+2024-01-13,Tablet,Electronics,1241,2,5,343,Ballardside
+2024-04-19,Tablet,Electronics,1116,8,15,11,North Jeremyhaven
+2023-12-15,Printer,Accessories,334,2,5,384,Patrickland
+2024-05-19,Printer,Accessories,446,4,10,302,Port Amandastad
+2024-04-25,Laptop,Electronics,61,1,20,334,North Jennifer
+2024-11-10,Smartphone,Electronics,1375,5,10,431,West Anthonybury
+2023-12-17,Tablet,Electronics,1326,9,5,50,West Andrew
+2024-02-12,Printer,Photography,548,1,15,327,Jeanbury
+2024-01-12,Smartphone,Photography,803,9,20,325,Port Lindaborough
+2024-10-20,Printer,Photography,84,8,5,390,North Christopherberg
+2024-06-13,Printer,Accessories,776,6,5,120,Obrienhaven
+2024-03-10,Printer,Photography,898,7,15,23,New Aliciaton
+2024-09-14,Headphones,Accessories,139,3,15,240,Jacksonmouth
+2024-08-02,Camera,Accessories,825,1,10,482,New Melissaburgh
+2024-01-03,Laptop,Photography,654,5,20,93,New Raymondfort
+2024-09-22,Printer,Accessories,1019,2,20,139,South Alison
+2024-09-26,Smartphone,Photography,1071,5,15,240,Williamsonton
+2024-03-19,Headphones,Photography,467,8,10,335,Lake Amber
+2024-04-24,Camera,Electronics,164,9,20,154,Thomasstad
+2024-03-21,Laptop,Photography,666,2,15,388,Lake Brandy
+2024-07-13,Smartphone,Electronics,1269,3,5,354,New Timothyfurt
+2024-10-04,Camera,Photography,875,3,20,37,Crosshaven
+2024-08-11,Camera,Photography,1148,1,10,75,Armstrongmouth
+2024-01-10,Printer,Electronics,462,8,10,172,East Stevenshire
+2024-06-30,Laptop,Electronics,1449,6,10,238,New Roy
+2024-07-04,Tablet,Photography,1493,8,5,270,West Katherinebury
+2024-04-21,Laptop,Accessories,778,9,20,458,Lisamouth
+2024-03-10,Laptop,Electronics,1350,5,20,433,Powellchester
+2024-07-17,Smartphone,Accessories,1070,3,5,469,Lake Charleneview
+2023-12-15,Laptop,Accessories,810,5,20,449,East Amanda
+2024-09-08,Laptop,Accessories,725,5,5,173,South Jessica
+2023-12-12,Laptop,Electronics,1467,5,5,310,Virginiamouth
+2024-08-29,Printer,Accessories,506,3,5,416,Alichester
+2024-07-20,Smartphone,Electronics,969,4,10,312,Bishopstad
+2024-06-20,Tablet,Accessories,241,9,20,296,Mckinneyfort
+2024-03-31,Printer,Photography,788,9,5,404,East John
+2024-12-06,Smartphone,Photography,1172,2,20,19,Mariaview
+2024-11-14,Laptop,Electronics,1027,8,10,204,West David
+2024-06-02,Headphones,Photography,1058,8,5,127,South Paige
+2023-12-13,Printer,Photography,145,7,15,279,Cherylstad
+2024-06-04,Headphones,Accessories,712,8,10,89,Romeroside
+2024-03-22,Headphones,Electronics,1263,3,15,467,South Stuartfort
+2024-03-29,Headphones,Accessories,86,6,20,102,Carneyborough
+2024-09-29,Headphones,Accessories,1442,1,20,275,Lake Lindsaystad
+2024-02-26,Laptop,Accessories,328,7,10,341,East Raymondfort
+2024-08-06,Laptop,Accessories,266,1,20,359,Port Cherylview
+2024-10-06,Printer,Accessories,916,9,15,370,South Sarahbury
+2024-09-04,Camera,Accessories,922,1,5,266,Mitchellmouth
+2024-03-19,Printer,Accessories,1346,1,5,142,New Valeriebury
+2024-09-24,Tablet,Electronics,111,7,5,285,Joeview
+2024-08-19,Smartphone,Photography,645,2,10,273,Lake Matthewtown
+2024-03-28,Tablet,Accessories,778,5,20,180,New Hunter
+2024-02-08,Printer,Accessories,1415,8,15,469,Millerfurt
+2024-05-23,Tablet,Accessories,446,8,20,10,Lake Johnland
+2024-06-23,Laptop,Accessories,748,3,20,322,Toddburgh
+2024-08-06,Headphones,Accessories,1092,7,20,73,Brownborough
+2024-05-23,Laptop,Accessories,226,3,5,383,North Holly
+2024-06-09,Laptop,Photography,445,6,15,477,Weeksbury
+2023-12-29,Camera,Photography,494,6,15,293,Bowenmouth
+2024-07-28,Printer,Accessories,1306,3,20,130,Claudiafurt
+2023-12-29,Printer,Photography,125,7,5,116,New Philip
+2023-12-29,Tablet,Electronics,314,3,5,430,New Richardberg
+2024-10-22,Smartphone,Accessories,504,8,15,184,Bellville
+2024-07-10,Camera,Electronics,767,4,5,494,East Ryanfort
+2024-02-01,Tablet,Electronics,784,1,5,213,Francisview
+2024-06-20,Camera,Accessories,1457,4,5,174,Clarkview
+2024-04-23,Laptop,Photography,900,7,10,314,Brownborough
+2024-06-20,Smartphone,Electronics,1440,4,20,129,North Donna
+2024-12-04,Tablet,Accessories,193,6,15,53,Hughesville
+2024-07-24,Laptop,Electronics,934,9,15,321,Wagnerchester
+2024-07-02,Headphones,Electronics,1142,1,10,165,North Jeffreyville
+2024-11-20,Smartphone,Electronics,1172,5,20,376,Hardington
+2024-05-24,Smartphone,Electronics,445,7,15,216,Angelafort
+2024-06-13,Smartphone,Photography,1098,1,5,399,West Alexander
+2024-05-26,Headphones,Electronics,997,4,15,117,Patrickside
+2024-03-16,Laptop,Electronics,940,6,5,260,East Kimberlybury
+2024-06-08,Headphones,Electronics,1224,2,10,454,South Victoriabury
+2024-05-13,Printer,Photography,1217,5,5,413,West Kristinburgh
+2024-02-24,Headphones,Electronics,618,1,15,379,Port Nathanport
+2024-09-19,Camera,Electronics,1112,6,15,343,Charlesview
+2024-03-12,Tablet,Photography,158,6,15,139,South Vickie
+2024-05-30,Smartphone,Photography,1115,4,10,466,West Justinland
+2024-01-31,Smartphone,Photography,1259,8,10,302,Port Christophershire
+2024-03-09,Printer,Electronics,984,4,20,29,South Shawn
+2024-10-28,Camera,Photography,447,8,15,291,Kevinborough
+2024-07-26,Laptop,Photography,1296,8,5,294,Lake Jenniferstad
+2024-03-14,Headphones,Electronics,683,5,10,10,Port Timothyburgh
+2024-04-06,Smartphone,Photography,1206,4,15,128,Martinezburgh
+2024-08-09,Laptop,Electronics,1236,2,15,44,Susanfurt
+2024-02-16,Headphones,Accessories,1288,3,10,207,Jamesberg
+2023-12-11,Printer,Photography,782,3,20,494,Savannahstad
+2024-01-24,Laptop,Accessories,284,4,10,254,West Melissa
+2024-06-15,Laptop,Electronics,707,4,10,68,West Adrian
+2024-07-17,Tablet,Photography,800,5,5,334,Kathleenview
+2024-03-21,Headphones,Electronics,637,4,5,170,Joanneshire
+2024-03-16,Printer,Accessories,1082,8,20,188,New Timothyhaven
+2024-09-29,Smartphone,Electronics,1147,6,15,215,West Emilystad
+2024-07-10,Headphones,Photography,1003,6,10,21,Port Alicia
+2024-03-25,Smartphone,Photography,541,8,20,499,Williamstad
+2024-09-15,Printer,Accessories,962,7,5,285,Katherineton
+2024-09-28,Laptop,Electronics,1326,8,10,190,South Erichaven
+2024-11-08,Laptop,Photography,1303,2,15,251,North Adam
+2024-05-06,Camera,Accessories,1247,9,5,225,New Heidi
+2024-01-10,Headphones,Photography,1241,1,5,260,Lake John
+2024-01-25,Headphones,Photography,219,8,5,308,Colleenborough
+2024-04-09,Printer,Electronics,1466,4,20,135,Websterville
+2024-02-19,Tablet,Photography,995,4,15,491,Sharpstad
+2024-07-13,Headphones,Electronics,844,5,10,226,Fullermouth
+2024-11-15,Smartphone,Photography,683,8,20,315,North Michaelborough
+2024-10-07,Tablet,Accessories,1267,5,20,294,Hodgeport
+2024-06-03,Laptop,Photography,78,8,20,194,Andrewchester
+2024-05-25,Printer,Electronics,1238,1,5,48,Brownport
+2024-03-31,Smartphone,Electronics,1495,9,15,232,Andrewside
+2024-01-04,Tablet,Accessories,388,6,20,193,Port Roychester
+2024-07-05,Tablet,Photography,1438,3,10,436,Lake Christophermouth
+2024-03-13,Camera,Photography,1415,8,15,187,Karenland
+2024-05-23,Printer,Accessories,549,9,10,416,East Derrickton
+2024-08-08,Printer,Photography,560,6,15,437,Michaelview
+2024-07-16,Headphones,Photography,1400,7,10,303,Jonathanburgh
+2024-02-21,Printer,Electronics,266,1,5,349,New Aaron
+2024-05-02,Tablet,Photography,1374,5,20,160,Deanview
+2024-09-28,Laptop,Photography,1205,5,10,393,North Derek
+2024-06-01,Printer,Accessories,1143,4,15,135,West Garyfurt
+2024-03-26,Tablet,Accessories,1325,6,20,310,Snyderborough
+2024-05-15,Headphones,Electronics,1488,7,20,317,Lake Samuelberg
+2024-01-15,Smartphone,Photography,494,9,15,345,Flowerston
+2024-02-21,Laptop,Photography,925,1,10,443,South Kenneth
+2023-12-16,Headphones,Photography,1255,6,5,243,Andreashire
+2023-12-17,Laptop,Electronics,216,7,5,389,New Kristinville
+2024-05-15,Camera,Electronics,140,3,10,384,Johnsonshire
+2024-05-20,Laptop,Accessories,763,8,20,17,Jeremyton
+2024-09-09,Headphones,Electronics,88,5,20,350,South Evelyn
+2024-06-14,Laptop,Photography,1199,9,20,138,Tarafort
+2023-12-15,Laptop,Photography,222,5,20,273,New Deborah
+2024-09-12,Laptop,Electronics,702,9,10,166,Seanbury
+2024-10-29,Laptop,Photography,803,4,20,361,North Brandonborough
+2024-10-26,Smartphone,Photography,1293,9,15,367,East Tiffany
+2024-11-20,Camera,Electronics,1131,5,20,14,West Ericport
+2024-11-24,Printer,Electronics,525,9,5,95,West Bobbytown
+2024-08-23,Camera,Photography,505,3,20,184,East Carlville
+2024-05-11,Headphones,Photography,878,4,10,299,West Veronicamouth
+2024-11-08,Tablet,Photography,944,9,5,202,Heatherstad
+2024-10-07,Smartphone,Accessories,1434,6,10,320,New John
+2024-10-14,Tablet,Accessories,1074,2,10,128,Pricehaven
+2024-06-06,Tablet,Accessories,436,7,5,227,Peterfurt
+2024-11-22,Headphones,Electronics,397,2,10,436,Mayerhaven
+2023-12-22,Printer,Accessories,239,2,10,467,Lake Thomas
+2024-07-04,Printer,Electronics,554,1,20,423,South Jennifer
+2024-11-20,Headphones,Electronics,1264,3,15,123,Lake Kristenfort
+2024-07-15,Tablet,Accessories,1442,6,10,475,Williamburgh
+2024-07-25,Printer,Accessories,1482,8,10,154,Solomonmouth
+2024-05-09,Camera,Accessories,873,9,10,35,Brandifort
+2024-04-26,Camera,Photography,978,7,20,145,Josephview
+2024-11-09,Laptop,Accessories,983,4,15,312,South Teresamouth
+2024-02-29,Tablet,Photography,1190,6,5,241,New Karenstad
+2024-09-18,Camera,Electronics,183,5,20,378,West Adambury
+2024-10-23,Headphones,Photography,107,8,20,85,Theodoreberg
+2024-05-25,Smartphone,Accessories,734,1,15,484,Baileyton
+2023-12-13,Tablet,Electronics,721,1,15,337,New Cindyton
+2024-08-24,Headphones,Electronics,222,6,20,354,North Jonathanland
+2024-02-01,Smartphone,Electronics,864,2,5,311,Madisontown
+2024-06-27,Laptop,Photography,1222,5,20,461,Ryanburgh
+2024-05-29,Tablet,Accessories,129,1,15,298,South Ericaburgh
+2024-09-01,Tablet,Electronics,935,7,5,10,Port David
+2024-08-31,Headphones,Electronics,1286,1,15,156,Mariaborough
+2024-10-30,Printer,Electronics,252,4,5,296,South Patrickfurt
+2024-06-06,Printer,Photography,813,9,10,473,Port Christopher
+2024-11-27,Smartphone,Photography,1302,1,15,151,West Lindsaychester
+2024-05-08,Laptop,Accessories,1300,4,15,62,North Chadside
+2024-09-15,Printer,Photography,1475,6,20,313,West Samantha
+2024-02-04,Laptop,Electronics,96,6,15,78,Aaronfort
+2024-09-24,Headphones,Accessories,1306,8,15,370,Joshuamouth
+2024-05-14,Tablet,Electronics,1378,1,10,99,North Vincentchester
+2024-07-05,Headphones,Electronics,1216,7,15,455,West Leslie
+2024-11-27,Smartphone,Photography,1488,1,10,229,East Jerry
+2024-06-18,Camera,Accessories,1446,7,10,459,New Lisa
+2024-07-22,Camera,Photography,1332,3,10,201,Mooremouth
+2024-10-20,Tablet,Photography,705,8,10,463,Pearsonland
+2024-07-14,Printer,Accessories,520,3,5,72,Ivanfurt
+2024-11-30,Laptop,Electronics,1020,1,20,82,New Brandonview
+2024-05-27,Tablet,Electronics,1085,8,5,170,Johnsonview
+2024-11-24,Laptop,Accessories,1403,3,15,178,Bartonmouth
+2024-11-24,Smartphone,Electronics,785,2,5,98,Kathleentown
+2024-02-21,Headphones,Accessories,833,1,5,185,West Carmenville
+2023-12-09,Printer,Accessories,1017,3,15,278,Shannontown
+2024-11-06,Headphones,Photography,407,2,15,82,Lake Jeanette
+2024-11-06,Printer,Accessories,1021,2,15,254,North Walterburgh
+2024-02-03,Headphones,Photography,1481,6,5,86,South Jasonfort
+2024-03-23,Printer,Electronics,717,1,5,168,Saraside
+2024-09-20,Printer,Electronics,422,2,15,498,North Kelly
+2024-02-18,Camera,Electronics,1081,6,20,468,New Matthew
+2024-01-27,Camera,Electronics,1195,3,20,333,Anthonyfort
+2024-08-11,Smartphone,Photography,1421,4,10,107,Josephview
+2024-09-13,Camera,Electronics,725,1,15,390,West Alexanderton
+2024-03-05,Headphones,Accessories,139,8,10,111,West David
+2024-02-08,Headphones,Accessories,747,7,20,141,Walkerside
+2024-11-10,Laptop,Accessories,1389,7,10,111,West Bradleytown
+2024-06-11,Smartphone,Photography,1251,3,15,28,West Michael
+2024-06-28,Tablet,Electronics,589,3,15,463,Phillipsville
+2024-08-04,Tablet,Electronics,781,2,15,491,Kaylastad
+2024-09-14,Printer,Electronics,918,1,5,91,North Laurenville
+2024-12-08,Headphones,Photography,90,7,10,406,Saraburgh
+2024-05-16,Headphones,Accessories,789,7,20,498,Codychester
+2024-04-05,Headphones,Accessories,551,2,20,288,Joseland
+2024-01-16,Printer,Electronics,1008,7,20,348,Berryshire
+2024-06-18,Headphones,Accessories,1218,8,5,374,Lake Brandonville
+2024-01-16,Camera,Accessories,1274,1,5,340,North Ralphfort
+2024-03-10,Camera,Photography,978,9,15,138,Lake Jeffrey
+2024-07-06,Headphones,Photography,510,7,20,353,Port Russellchester
+2024-10-24,Tablet,Photography,781,3,5,319,East Ariel
+2023-12-20,Camera,Photography,801,8,15,464,Hopkinsmouth
+2024-10-29,Printer,Electronics,974,7,20,98,New James
+2024-05-14,Smartphone,Photography,958,8,10,222,North Courtney
+2024-01-18,Smartphone,Accessories,1326,6,15,152,North Lance
+2024-03-19,Camera,Electronics,439,9,5,74,North Debbieview
+2024-02-05,Tablet,Accessories,932,5,5,85,Adkinsfort
+2024-02-15,Laptop,Accessories,305,3,15,208,Pottsbury
+2024-01-17,Smartphone,Accessories,758,3,15,152,North Annafurt
+2024-07-01,Camera,Photography,499,1,5,414,New Teresamouth
+2024-03-17,Smartphone,Photography,59,8,10,412,Keithville
+2024-09-19,Smartphone,Electronics,873,2,20,325,Lopezstad
+2024-07-20,Tablet,Electronics,847,3,10,102,Langton
+2024-06-04,Printer,Photography,1315,8,15,482,South Josephville
+2024-06-03,Smartphone,Accessories,1324,8,10,426,North Shellyville
+2024-03-06,Smartphone,Electronics,926,4,5,314,Hayleyfort
+2024-09-15,Laptop,Photography,1078,4,15,233,South Kathleenhaven
+2023-12-18,Headphones,Photography,1192,5,20,300,Glennburgh
+2024-05-02,Tablet,Photography,1065,6,5,437,Romeroside
+2024-10-17,Headphones,Accessories,423,5,5,111,New Nicholasfurt
+2024-12-08,Laptop,Photography,1138,7,20,483,Robertmouth
+2024-10-13,Laptop,Photography,195,2,20,276,Port Anna
+2024-07-23,Camera,Photography,273,7,10,364,New Breannaburgh
+2024-05-25,Camera,Photography,1312,7,15,465,North Drewside
+2024-03-05,Tablet,Electronics,226,1,20,119,Johnsonview
+2023-12-13,Camera,Electronics,902,7,20,471,North Lisastad
+2024-04-10,Camera,Photography,1355,5,15,339,Donaldfurt
+2024-05-13,Camera,Accessories,112,3,20,459,Joyceburgh
+2024-08-22,Headphones,Electronics,1290,3,20,439,West Patrickstad
+2024-05-18,Printer,Photography,876,4,10,274,Francishaven
+2024-09-15,Laptop,Electronics,844,2,5,12,Caseyburgh
+2024-07-11,Tablet,Electronics,738,2,5,94,Jonathanshire
+2023-12-28,Laptop,Accessories,154,1,5,291,Ashleychester
+2024-08-07,Tablet,Photography,1172,5,5,337,Port Lauraside
+2024-09-26,Smartphone,Photography,560,4,20,313,Amyfurt
+2024-11-20,Printer,Accessories,434,2,15,459,North Rick
+2024-11-03,Headphones,Accessories,454,3,15,463,Lake Andrewstad
+2024-10-12,Camera,Photography,872,7,10,421,Morganmouth
+2024-06-20,Tablet,Photography,567,7,10,126,South Jenniferstad
+2024-04-03,Tablet,Accessories,525,4,20,230,Eddieberg
+2024-05-13,Printer,Electronics,758,5,15,163,North Brianstad
+2024-11-15,Camera,Electronics,820,5,15,162,West Bryanland
+2024-03-18,Printer,Accessories,1096,6,5,21,North Charles
+2024-06-23,Printer,Electronics,1046,9,20,142,East Josephfort
+2024-11-29,Printer,Accessories,726,2,20,491,Wallacefurt
+2024-12-05,Headphones,Electronics,763,5,5,313,Fitzpatrickhaven
+2024-08-06,Camera,Electronics,132,3,20,302,Port Michael
+2024-05-02,Printer,Photography,1218,4,20,472,Port Matthewtown
+2024-02-02,Camera,Photography,1158,6,10,309,Justinbury
+2024-09-19,Camera,Electronics,1151,8,15,237,Lewisport
+2024-09-21,Printer,Electronics,506,1,20,280,Reedchester
+2024-02-16,Smartphone,Photography,50,8,10,52,Greenville
+2024-03-06,Camera,Photography,100,7,15,441,Lake Amandaland
+2023-12-18,Camera,Photography,734,1,5,352,New Anneside
+2023-12-14,Tablet,Accessories,766,2,10,335,South Jenniferhaven
+2024-01-17,Tablet,Electronics,498,3,10,311,Lindseyborough
+2024-11-26,Headphones,Photography,930,1,15,373,Port Christina
+2024-02-15,Camera,Electronics,537,9,5,388,Jamiefort
+2024-06-25,Laptop,Accessories,83,8,10,436,South Kevinview
+2024-05-18,Camera,Accessories,1421,2,20,30,Donnabury
+2024-08-06,Laptop,Photography,144,9,20,416,North Timothyborough
+2024-07-10,Smartphone,Accessories,1145,7,20,116,Thompsontown
+2024-01-13,Camera,Electronics,203,9,5,345,Amandaburgh
+2024-08-12,Smartphone,Photography,299,6,10,312,Lake Bryan
+2024-02-10,Smartphone,Electronics,723,6,20,126,Rodriguezville
+2024-04-13,Tablet,Electronics,487,4,5,133,South Danielleshire
+2024-11-03,Camera,Accessories,167,2,20,408,Melissamouth
+2024-06-17,Headphones,Accessories,820,7,15,290,Port Jessica
+2024-05-22,Smartphone,Accessories,1379,5,10,301,Ortizstad
+2024-09-11,Camera,Accessories,317,6,10,212,South Sarah
+2024-05-05,Headphones,Accessories,1127,2,5,60,South Colleen
+2024-10-08,Laptop,Photography,285,5,5,280,Marktown
+2024-10-29,Camera,Electronics,438,4,10,333,Sanchezview
+2024-04-05,Laptop,Electronics,1039,9,20,286,South Scott
+2024-04-30,Laptop,Electronics,812,6,20,150,Alexandriafurt
+2024-06-10,Laptop,Electronics,450,2,15,479,Danielshire
+2024-11-10,Camera,Accessories,673,1,20,284,Johnsonshire
+2024-03-07,Headphones,Electronics,816,5,5,299,Turnershire
+2024-11-24,Headphones,Photography,1376,9,5,343,South Paul
+2024-07-29,Camera,Photography,968,6,20,390,Lake Heatherside
+2024-04-16,Laptop,Electronics,1280,7,5,461,West Justin
+2024-02-01,Printer,Electronics,1302,5,10,382,New Jason
+2023-12-21,Smartphone,Photography,902,6,10,61,Josephton
+2024-02-09,Smartphone,Photography,627,5,20,36,Blakefurt
+2024-04-22,Printer,Accessories,124,9,10,166,East Brianna
+2024-03-09,Printer,Photography,484,6,10,248,Port William
+2024-04-05,Headphones,Accessories,152,8,15,165,West Paula
+2024-09-14,Headphones,Accessories,1495,2,15,300,Andradefurt
+2024-12-08,Laptop,Accessories,813,9,10,145,Port Michael
+2024-03-31,Smartphone,Accessories,787,5,20,153,East Michelle
+2024-07-08,Camera,Accessories,855,7,15,115,North Martin
+2024-08-27,Headphones,Electronics,1379,1,5,429,Port Jessica
+2024-10-25,Camera,Photography,147,5,5,167,Graceton
+2024-09-29,Printer,Accessories,847,2,5,155,Smithside
+2024-09-26,Headphones,Photography,1408,6,20,11,West Jennifer
+2024-09-04,Laptop,Photography,908,1,10,442,Colleenfurt
+2024-04-18,Camera,Accessories,484,3,5,86,Lake James
+2024-03-25,Camera,Electronics,496,5,20,141,Brownland
+2024-06-24,Laptop,Accessories,1381,4,15,99,East Valerie
+2024-01-12,Smartphone,Electronics,298,3,10,354,Helenport
+2024-01-28,Camera,Photography,215,5,15,359,Weavershire
+2024-02-09,Laptop,Electronics,1033,8,20,468,South Aaron
+2024-10-30,Smartphone,Electronics,1408,4,5,272,Watsonfort
+2024-10-27,Headphones,Electronics,1069,1,5,360,Matthewview
+2024-01-09,Laptop,Photography,591,7,20,117,Richardsonland
+2024-11-02,Camera,Photography,808,8,5,83,Shawnborough
+2024-06-17,Headphones,Electronics,1179,3,10,48,North Sally
+2024-05-22,Laptop,Electronics,130,6,20,406,Clarkhaven
+2024-05-01,Headphones,Accessories,182,2,15,168,West Curtis
+2024-02-27,Laptop,Electronics,846,7,20,80,Port Sharon
+2024-07-20,Printer,Accessories,949,8,10,456,Nataliestad
+2024-07-27,Printer,Electronics,187,6,10,321,Richardview
+2024-04-12,Laptop,Accessories,233,6,20,250,Lake Mikayla
+2024-05-28,Headphones,Photography,1474,5,20,435,Ramirezfort
+2024-11-09,Printer,Electronics,1403,8,5,454,Harrisonside
+2024-10-30,Camera,Electronics,834,1,10,307,Ebonychester
+2024-11-01,Camera,Electronics,1033,4,20,449,North Tina
+2023-12-13,Headphones,Electronics,118,4,20,45,East Sophiaside
+2023-12-21,Headphones,Accessories,595,3,10,93,East Norma
+2024-03-14,Printer,Electronics,102,3,20,461,Millerfort
+2024-02-02,Tablet,Photography,254,4,5,383,Port Julie
+2024-03-09,Smartphone,Photography,175,1,10,272,Lake Duaneberg
+2024-07-12,Headphones,Electronics,92,2,5,319,New Angelaborough
+2024-05-12,Headphones,Photography,160,9,5,394,Claymouth
+2024-10-23,Printer,Electronics,810,2,5,181,Brockton
+2023-12-31,Headphones,Electronics,1256,5,5,385,Lake Aaronchester
+2024-11-01,Camera,Photography,897,9,10,182,East Amanda
+2024-05-01,Printer,Electronics,144,9,5,371,East Kimberly
+2024-02-16,Smartphone,Photography,1447,8,5,56,North Teresa
+2024-11-20,Printer,Accessories,949,1,20,388,Thomastown
+2024-10-18,Tablet,Electronics,409,1,10,150,North Catherine
+2024-09-06,Smartphone,Accessories,949,9,10,384,Josephton
+2023-12-24,Tablet,Photography,330,8,15,415,New Mandy
+2024-03-04,Headphones,Accessories,1268,9,10,127,Garyside
+2024-07-09,Smartphone,Accessories,1268,7,10,286,Port Melvin
+2024-09-25,Tablet,Photography,716,3,15,223,South Jamieview
+2024-01-04,Smartphone,Accessories,142,3,10,229,Tuckerfurt
+2024-05-13,Tablet,Accessories,721,2,10,402,North Kellyburgh
+2024-11-30,Smartphone,Photography,110,5,10,35,Brightville
+2024-12-06,Headphones,Accessories,683,3,10,18,East Michaelland
+2024-04-04,Headphones,Photography,1124,6,15,280,North Rebecca
+2024-02-17,Tablet,Accessories,1476,2,10,19,Teresachester
+2024-05-02,Smartphone,Photography,1078,3,10,481,New Beverly
+2024-07-15,Headphones,Photography,653,5,15,387,Schaeferside
+2024-01-21,Smartphone,Accessories,731,1,20,130,North Douglas
+2024-12-01,Camera,Accessories,583,1,5,134,Elizabethburgh
+2024-10-10,Tablet,Accessories,1478,9,20,179,West Michelleberg
+2024-09-10,Printer,Electronics,887,7,15,81,Port Antonio
+2024-01-01,Smartphone,Electronics,694,1,5,161,Kanebury
+2023-12-25,Headphones,Electronics,282,8,15,217,East Austinburgh
+2024-01-26,Headphones,Photography,573,3,15,58,Anthonyview
+2024-04-19,Tablet,Accessories,395,8,10,163,East Jerryberg
+2023-12-19,Camera,Photography,1119,5,5,356,Patriciaville
+2024-02-13,Laptop,Electronics,595,1,10,302,East Bradley
+2024-08-29,Tablet,Accessories,1151,7,5,77,Cheyenneburgh
+2024-08-30,Laptop,Photography,1146,5,15,59,Cummingsborough
+2024-07-01,Camera,Accessories,843,6,15,161,Lindaland
+2024-07-06,Smartphone,Photography,298,6,20,28,North Robin
+2024-07-06,Tablet,Accessories,96,8,5,109,Wiseport
+2024-10-09,Tablet,Electronics,1194,9,10,69,Tannerborough
+2024-03-01,Printer,Electronics,263,2,20,176,Scottbury
+2024-09-11,Laptop,Accessories,288,9,20,211,Matthewtown
+2024-05-20,Headphones,Photography,1129,9,20,354,Richardsview
+2024-06-05,Laptop,Electronics,399,7,10,155,East Thomas
+2024-01-28,Laptop,Electronics,156,1,20,412,Lake Katie
+2024-01-11,Camera,Electronics,880,7,10,173,North Jamestown
+2023-12-09,Printer,Accessories,97,5,20,467,East Cody
+2024-03-27,Camera,Accessories,386,6,10,490,Lake Courtneyfort
+2023-12-30,Tablet,Photography,1099,7,15,448,West Michaelside
+2024-04-25,Camera,Photography,853,5,15,251,North Markside
+2024-09-26,Headphones,Photography,1330,7,15,78,West Belindahaven
+2024-09-11,Tablet,Accessories,57,9,15,184,New Bobbytown
+2024-03-12,Headphones,Accessories,674,3,15,58,Deborahside
+2024-09-18,Headphones,Photography,1326,8,20,492,North Roberttown
+2024-11-29,Tablet,Photography,768,2,20,117,Christinaport
+2024-02-02,Tablet,Accessories,352,7,20,235,Port Rachelport
+2024-05-28,Camera,Photography,688,2,10,170,Jamesview
+2024-10-07,Laptop,Electronics,105,4,10,128,New Michaelchester
+2024-06-18,Printer,Accessories,775,7,10,158,Littlechester
+2024-05-30,Smartphone,Photography,575,3,10,474,East Christon
+2024-06-23,Headphones,Accessories,523,2,15,159,Port Staceytown
+2024-09-08,Smartphone,Electronics,77,7,15,441,Beardhaven
+2024-01-14,Tablet,Accessories,127,1,15,302,South Nathan
+2024-09-27,Printer,Accessories,1289,8,5,152,Myersberg
+2024-06-18,Tablet,Accessories,1459,3,20,428,Crystalmouth
+2024-07-24,Tablet,Accessories,414,2,10,485,North Douglasview
+2024-09-26,Printer,Electronics,715,3,10,464,Heatherstad
+2024-02-29,Headphones,Accessories,575,5,15,169,Lake Josephhaven
+2024-02-16,Camera,Accessories,748,8,10,20,Lake Deanshire
+2024-03-04,Headphones,Photography,1385,7,10,147,Courtneyfort
+2024-08-18,Camera,Accessories,932,7,20,466,Colleenbury
+2024-02-29,Smartphone,Photography,1080,7,15,87,South Connieland
+2024-02-22,Camera,Electronics,1076,8,20,86,Reneemouth
+2024-06-11,Laptop,Electronics,968,1,5,450,Martinezborough
+2024-02-22,Headphones,Electronics,799,4,5,263,Port Jefferyfort
+2024-02-02,Laptop,Electronics,412,6,5,418,New Josephshire
+2024-02-19,Headphones,Photography,1347,9,15,267,East Mirandaton
+2024-07-24,Smartphone,Accessories,855,2,10,329,West Kimberly
+2024-02-01,Headphones,Electronics,788,1,15,300,Kimberlyfort
+2024-08-29,Printer,Accessories,1088,2,15,272,Lake Blakeshire
+2024-09-07,Camera,Photography,1265,7,10,94,Lake Wendy
+2024-09-20,Smartphone,Photography,534,3,20,155,Johnmouth
+2024-03-28,Smartphone,Photography,77,2,5,332,Cruzborough
+2024-11-18,Smartphone,Electronics,763,7,20,51,South Chad
+2024-09-02,Printer,Accessories,1112,2,5,383,Nicoleport
+2024-09-11,Tablet,Accessories,1346,3,15,134,Rebeccamouth
+2024-07-28,Camera,Accessories,1304,7,5,176,Tiffanyfort
+2024-01-15,Camera,Photography,135,4,15,434,Lake Kaylaside
+2024-08-02,Camera,Electronics,175,1,20,250,Port Ashley
+2023-12-23,Camera,Photography,861,5,15,468,New Matthewville
+2024-11-07,Camera,Photography,586,9,20,496,Caldwellchester
+2024-09-04,Printer,Accessories,194,8,10,289,Penatown
+2024-11-28,Tablet,Photography,1285,9,10,197,New Alexander
+2024-07-30,Printer,Accessories,74,9,10,311,East Benjaminchester
+2024-09-23,Camera,Electronics,1467,7,15,28,Rogersfurt
+2024-08-26,Headphones,Accessories,116,4,10,77,Hernandezside
+2024-01-13,Laptop,Electronics,282,5,5,227,North Peterton
+2023-12-24,Laptop,Accessories,158,1,20,111,Lake Elizabeth
+2024-10-08,Printer,Photography,1219,1,20,51,North Lauramouth
+2024-10-31,Laptop,Photography,160,3,5,297,New Ryanside
+2024-01-06,Camera,Electronics,277,8,15,176,Lake Elijah
+2024-09-04,Headphones,Electronics,160,2,15,118,Jayfort
+2024-02-09,Laptop,Electronics,83,4,20,45,Katrinaside
+2024-02-02,Tablet,Accessories,672,2,10,241,Port Scottton
+2024-08-29,Printer,Accessories,1442,5,15,238,South Courtneyburgh
+2023-12-15,Laptop,Electronics,797,9,15,362,South Gregorybury
+2024-12-04,Laptop,Photography,644,1,5,173,East Lawrencemouth
+2024-10-19,Tablet,Accessories,474,5,5,396,New Jamesmouth
+2024-10-04,Camera,Accessories,662,9,10,82,Ruizberg
+2024-09-10,Smartphone,Accessories,741,1,15,145,Thomastown
+2024-02-13,Smartphone,Electronics,1355,9,15,362,North Leonland
+2024-03-15,Headphones,Electronics,1393,8,5,388,New Nicholas
+2024-11-29,Smartphone,Electronics,364,4,15,79,Lake Ronald
+2024-01-27,Printer,Electronics,926,5,20,434,Kyletown
+2024-01-27,Laptop,Electronics,1450,5,5,496,Kevinview
+2024-10-28,Tablet,Photography,1362,6,10,205,Brewerborough
+2024-01-01,Printer,Photography,711,7,5,278,Cooperview
+2024-01-20,Laptop,Electronics,326,8,15,58,South Susanshire
+2024-06-02,Headphones,Accessories,673,8,10,325,Davidton
+2024-06-25,Laptop,Electronics,565,2,5,139,South Elizabeth
+2024-09-08,Smartphone,Photography,1423,9,20,453,Brandonborough
+2024-11-22,Tablet,Photography,892,7,20,14,East Morgan
+2024-03-05,Laptop,Accessories,399,4,5,437,Allisonfurt
+2024-03-10,Tablet,Photography,872,4,20,36,West Amy
+2024-04-23,Printer,Electronics,1210,8,20,169,New Jessicashire
+2024-02-05,Smartphone,Accessories,808,4,20,158,New Joseph
+2024-11-05,Smartphone,Electronics,948,6,10,273,North Jonathanchester
+2024-05-23,Laptop,Electronics,292,5,20,239,South Brianmouth
+2024-07-07,Laptop,Accessories,592,3,20,209,Lake Cheryl
+2024-05-07,Printer,Electronics,1113,2,20,59,West Jamiebury
+2024-10-26,Printer,Photography,278,9,10,76,New Donnamouth
+2024-02-11,Headphones,Electronics,597,9,5,309,Port Zachary
+2024-04-27,Camera,Accessories,969,1,15,390,Singhtown
+2024-03-29,Tablet,Accessories,1296,3,20,67,New Penny
+2024-09-02,Laptop,Accessories,55,8,5,268,West Matthewberg
+2024-10-23,Printer,Electronics,1395,6,20,351,Port Victoriatown
+2024-03-18,Headphones,Accessories,517,5,10,335,Jessicachester
+2024-08-19,Tablet,Accessories,124,5,5,139,Jessicaland
+2024-08-10,Tablet,Electronics,53,6,10,224,Woodardland
+2024-10-27,Camera,Photography,695,7,20,181,Gregorychester
+2024-05-10,Camera,Electronics,167,1,20,267,West Michelle
+2024-08-13,Laptop,Accessories,930,9,10,111,Brightfurt
+2024-03-28,Printer,Accessories,553,3,15,218,Arroyobury
+2024-05-12,Tablet,Electronics,996,4,10,300,North Christopher
+2024-08-28,Headphones,Photography,623,1,20,363,East Wendy
+2024-10-16,Laptop,Accessories,243,3,10,480,Petersonborough
+2024-11-18,Camera,Accessories,896,2,15,295,South Nathaniel
+2024-01-24,Tablet,Accessories,764,2,10,125,Porterberg
+2024-03-05,Tablet,Electronics,1465,1,15,273,West Morganside
+2024-04-22,Tablet,Accessories,1099,8,15,159,Kelseyberg
+2024-04-19,Tablet,Photography,222,3,10,309,Brendaside
